@@ -1,0 +1,592 @@
+algorithme,type,configuration,taille,temps_moyen_s,trie_ok
+Tri par selection,int,aleatoire,1000,0,002094680,1
+Tri par insertion,int,aleatoire,1000,0,000843405,1
+Tri a bulles,int,aleatoire,1000,0,002484910,1
+Tri fusion,int,aleatoire,1000,0,000088945,1
+Tri Shell,int,aleatoire,1000,0,000118775,1
+Tri rapide,int,aleatoire,1000,0,000073620,1
+Tri par selection,float,aleatoire,100,0,000106240,1
+Tri par insertion,float,aleatoire,100,0,000042600,1
+Tri a bulles,float,aleatoire,100,0,000118745,1
+Tri fusion,float,aleatoire,100,0,000018810,1
+Tri Shell,float,aleatoire,100,0,000026765,1
+Tri rapide,float,aleatoire,100,0,000015640,1
+Tri par selection,float,aleatoire,500,0,001555045,1
+Tri par insertion,float,aleatoire,500,0,000329410,1
+Tri a bulles,float,aleatoire,500,0,000794275,1
+Tri fusion,float,aleatoire,500,0,000042140,1
+Tri Shell,float,aleatoire,500,0,000054765,1
+Tri rapide,float,aleatoire,500,0,000034105,1
+Tri par selection,float,aleatoire,1000,0,002403515,1
+Tri par insertion,float,aleatoire,1000,0,000764065,1
+Tri a bulles,float,aleatoire,1000,0,002678395,1
+Tri fusion,float,aleatoire,1000,0,000119150,1
+Tri Shell,float,aleatoire,1000,0,000119525,1
+Tri rapide,float,aleatoire,1000,0,000075020,1
+Tri par selection,float,aleatoire,5000,0,058878140,1
+Tri par insertion,float,aleatoire,5000,0,020158780,1
+Tri a bulles,float,aleatoire,5000,0,079405060,1
+Tri fusion,float,aleatoire,5000,0,000607840,1
+Tri Shell,float,aleatoire,5000,0,000826400,1
+Tri rapide,float,aleatoire,5000,0,000466600,1
+Tri par selection,float,aleatoire,10000,0,245388660,1
+Tri par insertion,float,aleatoire,10000,0,080692920,1
+Tri a bulles,float,aleatoire,10000,0,329437420,1
+Tri fusion,float,aleatoire,10000,0,001229060,1
+Tri Shell,float,aleatoire,10000,0,001860740,1
+Tri rapide,float,aleatoire,10000,0,000973900,1
+Tri par selection,float,aleatoire,50000,5,788157967,1
+Tri par insertion,float,aleatoire,50000,1,898208433,1
+Tri a bulles,float,aleatoire,50000,8,442918833,1
+Tri fusion,float,aleatoire,50000,0,008188967,1
+Tri Shell,float,aleatoire,50000,0,012670933,1
+Tri rapide,float,aleatoire,50000,0,005698000,1
+Tri fusion,float,aleatoire,100000,0,016235533,1
+Tri Shell,float,aleatoire,100000,0,026661500,1
+Tri rapide,float,aleatoire,100000,0,012416033,1
+Tri par selection,float,croissant,100,0,000023780,1
+Tri par insertion,float,croissant,100,0,000000975,1
+Tri a bulles,float,croissant,100,0,000000405,1
+Tri fusion,float,croissant,100,0,000004105,1
+Tri Shell,float,croissant,100,0,000002830,1
+Tri rapide,float,croissant,100,0,000001950,1
+Tri par selection,float,croissant,500,0,000604985,1
+Tri par insertion,float,croissant,500,0,000003170,1
+Tri a bulles,float,croissant,500,0,000001015,1
+Tri fusion,float,croissant,500,0,000015780,1
+Tri Shell,float,croissant,500,0,000015615,1
+Tri rapide,float,croissant,500,0,000010615,1
+Tri par selection,float,croissant,1000,0,002559620,1
+Tri par insertion,float,croissant,1000,0,000006700,1
+Tri a bulles,float,croissant,1000,0,000002120,1
+Tri fusion,float,croissant,1000,0,000033505,1
+Tri Shell,float,croissant,1000,0,000037155,1
+Tri rapide,float,croissant,1000,0,000022720,1
+Tri par selection,float,croissant,5000,0,062396140,1
+Tri par insertion,float,croissant,5000,0,000038160,1
+Tri a bulles,float,croissant,5000,0,000017880,1
+Tri fusion,float,croissant,5000,0,000262700,1
+Tri Shell,float,croissant,5000,0,000265620,1
+Tri rapide,float,croissant,5000,0,000145300,1
+Tri par selection,float,croissant,10000,0,239192980,1
+Tri par insertion,float,croissant,10000,0,000062640,1
+Tri a bulles,float,croissant,10000,0,000026940,1
+Tri fusion,float,croissant,10000,0,000414680,1
+Tri Shell,float,croissant,10000,0,000487200,1
+Tri rapide,float,croissant,10000,0,000279980,1
+Tri par selection,float,croissant,50000,5,805813133,1
+Tri par insertion,float,croissant,50000,0,000363033,1
+Tri a bulles,float,croissant,50000,0,000098033,1
+Tri fusion,float,croissant,50000,0,002203767,1
+Tri Shell,float,croissant,50000,0,002687100,1
+Tri rapide,float,croissant,50000,0,001604333,1
+Tri fusion,float,croissant,100000,0,004774867,1
+Tri Shell,float,croissant,100000,0,005666133,1
+Tri rapide,float,croissant,100000,0,003403600,1
+Tri par selection,float,decroissant,100,0,000023405,1
+Tri par insertion,float,decroissant,100,0,000017090,1
+Tri a bulles,float,decroissant,100,0,000041425,1
+Tri fusion,float,decroissant,100,0,000002785,1
+Tri Shell,float,decroissant,100,0,000003350,1
+Tri rapide,float,decroissant,100,0,000002815,1
+Tri par selection,float,decroissant,500,0,000609390,1
+Tri par insertion,float,decroissant,500,0,000381435,1
+Tri a bulles,float,decroissant,500,0,001014345,1
+Tri fusion,float,decroissant,500,0,000018480,1
+Tri Shell,float,decroissant,500,0,000028945,1
+Tri rapide,float,decroissant,500,0,000010720,1
+Tri par selection,float,decroissant,1000,0,002368760,1
+Tri par insertion,float,decroissant,1000,0,001664865,1
+Tri a bulles,float,decroissant,1000,0,004050995,1
+Tri fusion,float,decroissant,1000,0,000034005,1
+Tri Shell,float,decroissant,1000,0,000057135,1
+Tri rapide,float,decroissant,1000,0,000031795,1
+Tri par selection,float,decroissant,5000,0,058093160,1
+Tri par insertion,float,decroissant,5000,0,038027520,1
+Tri a bulles,float,decroissant,5000,0,096041760,1
+Tri fusion,float,decroissant,5000,0,000213480,1
+Tri Shell,float,decroissant,5000,0,000318300,1
+Tri rapide,float,decroissant,5000,0,000146220,1
+Tri par selection,float,decroissant,10000,0,232865300,1
+Tri par insertion,float,decroissant,10000,0,150438240,1
+Tri a bulles,float,decroissant,10000,0,393761520,1
+Tri fusion,float,decroissant,10000,0,000450720,1
+Tri Shell,float,decroissant,10000,0,000744300,1
+Tri rapide,float,decroissant,10000,0,000271900,1
+Tri par selection,float,decroissant,50000,5,827969467,1
+Tri par insertion,float,decroissant,50000,3,770045200,1
+Tri a bulles,float,decroissant,50000,9,706546533,1
+Tri fusion,float,decroissant,50000,0,002395800,1
+Tri Shell,float,decroissant,50000,0,004111867,1
+Tri rapide,float,decroissant,50000,0,001648767,1
+Tri fusion,float,decroissant,100000,0,005087033,1
+Tri Shell,float,decroissant,100000,0,009763067,1
+Tri rapide,float,decroissant,100000,0,003649333,1
+Tri par selection,int,aleatoire,100,0,000068770,1
+Tri par insertion,int,aleatoire,100,0,000011000,1
+Tri a bulles,int,aleatoire,100,0,000029365,1
+Tri fusion,int,aleatoire,100,0,000004915,1
+Tri Shell,int,aleatoire,100,0,000006645,1
+Tri rapide,int,aleatoire,100,0,000003935,1
+Tri par selection,int,aleatoire,500,0,000610055,1
+Tri par insertion,int,aleatoire,500,0,000206155,1
+Tri a bulles,int,aleatoire,500,0,000647010,1
+Tri fusion,int,aleatoire,500,0,000038300,1
+Tri Shell,int,aleatoire,500,0,000047470,1
+Tri rapide,int,aleatoire,500,0,000030475,1
+Tri par selection,int,aleatoire,1000,0,002041885,1
+Tri par insertion,int,aleatoire,1000,0,000789100,1
+Tri a bulles,int,aleatoire,1000,0,002397235,1
+Tri fusion,int,aleatoire,1000,0,000087660,1
+Tri Shell,int,aleatoire,1000,0,000116430,1
+Tri rapide,int,aleatoire,1000,0,000089250,1
+Tri par selection,int,aleatoire,5000,0,051187080,1
+Tri par insertion,int,aleatoire,5000,0,020843740,1
+Tri a bulles,int,aleatoire,5000,0,073099080,1
+Tri fusion,int,aleatoire,5000,0,000599580,1
+Tri Shell,int,aleatoire,5000,0,000749080,1
+Tri rapide,int,aleatoire,5000,0,000483860,1
+Tri par selection,int,aleatoire,10000,0,203090180,1
+Tri par insertion,int,aleatoire,10000,0,076608840,1
+Tri a bulles,int,aleatoire,10000,0,303663780,1
+Tri fusion,int,aleatoire,10000,0,001205940,1
+Tri Shell,int,aleatoire,10000,0,001684420,1
+Tri rapide,int,aleatoire,10000,0,000942660,1
+Tri par selection,int,aleatoire,50000,5,159139667,1
+Tri par insertion,int,aleatoire,50000,2,103336800,1
+Tri a bulles,int,aleatoire,50000,8,137625533,1
+Tri fusion,int,aleatoire,50000,0,007761000,1
+Tri Shell,int,aleatoire,50000,0,012402600,1
+Tri rapide,int,aleatoire,50000,0,005662467,1
+Tri fusion,int,aleatoire,100000,0,017951367,1
+Tri Shell,int,aleatoire,100000,0,025754467,1
+Tri rapide,int,aleatoire,100000,0,012435467,1
+Tri par selection,int,croissant,100,0,000020765,1
+Tri par insertion,int,croissant,100,0,000000705,1
+Tri a bulles,int,croissant,100,0,000000260,1
+Tri fusion,int,croissant,100,0,000002555,1
+Tri Shell,int,croissant,100,0,000002195,1
+Tri rapide,int,croissant,100,0,000001930,1
+Tri par selection,int,croissant,500,0,000534330,1
+Tri par insertion,int,croissant,500,0,000004305,1
+Tri a bulles,int,croissant,500,0,000001785,1
+Tri fusion,int,croissant,500,0,000025710,1
+Tri Shell,int,croissant,500,0,000016070,1
+Tri rapide,int,croissant,500,0,000011995,1
+Tri par selection,int,croissant,1000,0,002173935,1
+Tri par insertion,int,croissant,1000,0,000009145,1
+Tri a bulles,int,croissant,1000,0,000003670,1
+Tri fusion,int,croissant,1000,0,000059640,1
+Tri Shell,int,croissant,1000,0,000044420,1
+Tri rapide,int,croissant,1000,0,000031535,1
+Tri par selection,int,croissant,5000,0,053966540,1
+Tri par insertion,int,croissant,5000,0,000036940,1
+Tri a bulles,int,croissant,5000,0,000016060,1
+Tri fusion,int,croissant,5000,0,000282640,1
+Tri Shell,int,croissant,5000,0,000213200,1
+Tri rapide,int,croissant,5000,0,000151660,1
+Tri par selection,int,croissant,10000,0,209805840,1
+Tri par insertion,int,croissant,10000,0,000074400,1
+Tri a bulles,int,croissant,10000,0,000035560,1
+Tri fusion,int,croissant,10000,0,000465620,1
+Tri Shell,int,croissant,10000,0,000740240,1
+Tri rapide,int,croissant,10000,0,000347800,1
+Tri par selection,int,croissant,50000,5,098235467,1
+Tri par insertion,int,croissant,50000,0,000396700,1
+Tri a bulles,int,croissant,50000,0,000103300,1
+Tri fusion,int,croissant,50000,0,002672200,1
+Tri Shell,int,croissant,50000,0,003001767,1
+Tri rapide,int,croissant,50000,0,001582633,1
+Tri fusion,int,croissant,100000,0,006689700,1
+Tri Shell,int,croissant,100000,0,006480067,1
+Tri rapide,int,croissant,100000,0,004551100,1
+Tri par selection,int,decroissant,100,0,000022590,1
+Tri par insertion,int,decroissant,100,0,000037110,1
+Tri a bulles,int,decroissant,100,0,000042395,1
+Tri fusion,int,decroissant,100,0,000007065,1
+Tri Shell,int,decroissant,100,0,000004955,1
+Tri rapide,int,decroissant,100,0,000002860,1
+Tri par selection,int,decroissant,500,0,000506010,1
+Tri par insertion,int,decroissant,500,0,000698595,1
+Tri a bulles,int,decroissant,500,0,000920110,1
+Tri fusion,int,decroissant,500,0,000014290,1
+Tri Shell,int,decroissant,500,0,000030335,1
+Tri rapide,int,decroissant,500,0,000009845,1
+Tri par selection,int,decroissant,1000,0,002023855,1
+Tri par insertion,int,decroissant,1000,0,002481665,1
+Tri a bulles,int,decroissant,1000,0,003855200,1
+Tri fusion,int,decroissant,1000,0,000041485,1
+Tri Shell,int,decroissant,1000,0,000055685,1
+Tri rapide,int,decroissant,1000,0,000025020,1
+Tri par selection,int,decroissant,5000,0,050972640,1
+Tri par insertion,int,decroissant,5000,0,040756320,1
+Tri a bulles,int,decroissant,5000,0,089674860,1
+Tri fusion,int,decroissant,5000,0,000319540,1
+Tri Shell,int,decroissant,5000,0,000381240,1
+Tri rapide,int,decroissant,5000,0,000192200,1
+Tri par selection,int,decroissant,10000,0,200011420,1
+Tri par insertion,int,decroissant,10000,0,160441600,1
+Tri a bulles,int,decroissant,10000,0,357695940,1
+Tri fusion,int,decroissant,10000,0,000525560,1
+Tri Shell,int,decroissant,10000,0,000854500,1
+Tri rapide,int,decroissant,10000,0,000355800,1
+Tri par selection,int,decroissant,50000,4,957642133,1
+Tri par insertion,int,decroissant,50000,3,935794933,1
+Tri a bulles,int,decroissant,50000,8,901124400,1
+Tri fusion,int,decroissant,50000,0,002456067,1
+Tri Shell,int,decroissant,50000,0,004557467,1
+Tri rapide,int,decroissant,50000,0,001673033,1
+Tri fusion,int,decroissant,100000,0,005084800,1
+Tri Shell,int,decroissant,100000,0,009312300,1
+Tri rapide,int,decroissant,100000,0,004344700,1
+Tri par selection,char,aleatoire,100,0,000022050,1
+Tri par insertion,char,aleatoire,100,0,000011045,1
+Tri a bulles,char,aleatoire,100,0,000016720,1
+Tri fusion,char,aleatoire,100,0,000004730,1
+Tri Shell,char,aleatoire,100,0,000005435,1
+Tri rapide,char,aleatoire,100,0,000002970,1
+Tri par selection,char,aleatoire,500,0,000530885,1
+Tri par insertion,char,aleatoire,500,0,000214185,1
+Tri a bulles,char,aleatoire,500,0,000346715,1
+Tri fusion,char,aleatoire,500,0,000036055,1
+Tri Shell,char,aleatoire,500,0,000041505,1
+Tri rapide,char,aleatoire,500,0,000024570,1
+Tri par selection,char,aleatoire,1000,0,002025510,1
+Tri par insertion,char,aleatoire,1000,0,000769110,1
+Tri a bulles,char,aleatoire,1000,0,001411035,1
+Tri fusion,char,aleatoire,1000,0,000098585,1
+Tri Shell,char,aleatoire,1000,0,000097435,1
+Tri rapide,char,aleatoire,1000,0,000048075,1
+Tri par selection,char,aleatoire,5000,0,050598840,1
+Tri par insertion,char,aleatoire,5000,0,019814540,1
+Tri a bulles,char,aleatoire,5000,0,045160140,1
+Tri fusion,char,aleatoire,5000,0,000539980,1
+Tri Shell,char,aleatoire,5000,0,000518320,1
+Tri rapide,char,aleatoire,5000,0,000295540,1
+Tri par selection,char,aleatoire,10000,0,201069500,1
+Tri par insertion,char,aleatoire,10000,0,076399160,1
+Tri a bulles,char,aleatoire,10000,0,192941060,1
+Tri fusion,char,aleatoire,10000,0,000956200,1
+Tri Shell,char,aleatoire,10000,0,001165000,1
+Tri rapide,char,aleatoire,10000,0,000597440,1
+Tri par selection,char,aleatoire,50000,5,100317633,1
+Tri par insertion,char,aleatoire,50000,2,030559867,1
+Tri a bulles,char,aleatoire,50000,5,292981067,1
+Tri fusion,char,aleatoire,50000,0,005414600,1
+Tri Shell,char,aleatoire,50000,0,006180233,1
+Tri rapide,char,aleatoire,50000,0,003043533,1
+Tri fusion,char,aleatoire,100000,0,010934633,1
+Tri Shell,char,aleatoire,100000,0,013166500,1
+Tri rapide,char,aleatoire,100000,0,005963000,1
+Tri par selection,char,croissant,100,0,000018875,1
+Tri par insertion,char,croissant,100,0,000000675,1
+Tri a bulles,char,croissant,100,0,000000225,1
+Tri fusion,char,croissant,100,0,000002485,1
+Tri Shell,char,croissant,100,0,000002135,1
+Tri rapide,char,croissant,100,0,000002120,1
+Tri par selection,char,croissant,500,0,000510035,1
+Tri par insertion,char,croissant,500,0,000003150,1
+Tri a bulles,char,croissant,500,0,000001265,1
+Tri fusion,char,croissant,500,0,000016790,1
+Tri Shell,char,croissant,500,0,000015170,1
+Tri rapide,char,croissant,500,0,000014240,1
+Tri par selection,char,croissant,1000,0,002034880,1
+Tri par insertion,char,croissant,1000,0,000006965,1
+Tri a bulles,char,croissant,1000,0,000002100,1
+Tri fusion,char,croissant,1000,0,000032115,1
+Tri Shell,char,croissant,1000,0,000031765,1
+Tri rapide,char,croissant,1000,0,000030515,1
+Tri par selection,char,croissant,5000,0,050631900,1
+Tri par insertion,char,croissant,5000,0,000045800,1
+Tri a bulles,char,croissant,5000,0,000009820,1
+Tri fusion,char,croissant,5000,0,000221020,1
+Tri Shell,char,croissant,5000,0,000199820,1
+Tri rapide,char,croissant,5000,0,000158900,1
+Tri par selection,char,croissant,10000,0,202707840,1
+Tri par insertion,char,croissant,10000,0,000087880,1
+Tri a bulles,char,croissant,10000,0,000035200,1
+Tri fusion,char,croissant,10000,0,000480160,1
+Tri Shell,char,croissant,10000,0,000688940,1
+Tri rapide,char,croissant,10000,0,000365060,1
+Tri par selection,char,croissant,50000,5,045967767,1
+Tri par insertion,char,croissant,50000,0,000405800,1
+Tri a bulles,char,croissant,50000,0,000097933,1
+Tri fusion,char,croissant,50000,0,002552333,1
+Tri Shell,char,croissant,50000,0,002879167,1
+Tri rapide,char,croissant,50000,0,001956933,1
+Tri fusion,char,croissant,100000,0,004682200,1
+Tri Shell,char,croissant,100000,0,006533867,1
+Tri rapide,char,croissant,100000,0,003743833,1
+Tri par selection,char,decroissant,100,0,000024485,1
+Tri par insertion,char,decroissant,100,0,000032690,1
+Tri a bulles,char,decroissant,100,0,000024465,1
+Tri fusion,char,decroissant,100,0,000005375,1
+Tri Shell,char,decroissant,100,0,000004715,1
+Tri rapide,char,decroissant,100,0,000003435,1
+Tri par selection,char,decroissant,500,0,000522020,1
+Tri par insertion,char,decroissant,500,0,000452305,1
+Tri a bulles,char,decroissant,500,0,000399130,1
+Tri fusion,char,decroissant,500,0,000029560,1
+Tri Shell,char,decroissant,500,0,000033300,1
+Tri rapide,char,decroissant,500,0,000018550,1
+Tri par selection,char,decroissant,1000,0,002024565,1
+Tri par insertion,char,decroissant,1000,0,001750605,1
+Tri a bulles,char,decroissant,1000,0,001401180,1
+Tri fusion,char,decroissant,1000,0,000041460,1
+Tri Shell,char,decroissant,1000,0,000050270,1
+Tri rapide,char,decroissant,1000,0,000046235,1
+Tri par selection,char,decroissant,5000,0,050644740,1
+Tri par insertion,char,decroissant,5000,0,041457920,1
+Tri a bulles,char,decroissant,5000,0,034779420,1
+Tri fusion,char,decroissant,5000,0,000210900,1
+Tri Shell,char,decroissant,5000,0,000267020,1
+Tri rapide,char,decroissant,5000,0,000152800,1
+Tri par selection,char,decroissant,10000,0,204220760,1
+Tri par insertion,char,decroissant,10000,0,153411620,1
+Tri a bulles,char,decroissant,10000,0,135760620,1
+Tri fusion,char,decroissant,10000,0,000563120,1
+Tri Shell,char,decroissant,10000,0,000751880,1
+Tri rapide,char,decroissant,10000,0,000398420,1
+Tri par selection,char,decroissant,50000,5,039742667,1
+Tri par insertion,char,decroissant,50000,3,867403467,1
+Tri a bulles,char,decroissant,50000,3,332890900,1
+Tri fusion,char,decroissant,50000,0,002342233,1
+Tri Shell,char,decroissant,50000,0,003197700,1
+Tri rapide,char,decroissant,50000,0,001692633,1
+Tri fusion,char,decroissant,100000,0,004790033,1
+Tri Shell,char,decroissant,100000,0,006436833,1
+Tri rapide,char,decroissant,100000,0,003663433,1
+Tri par selection,double,aleatoire,100,0,000104695,1
+Tri par insertion,double,aleatoire,100,0,000042405,1
+Tri a bulles,double,aleatoire,100,0,000144760,1
+Tri fusion,double,aleatoire,100,0,000021010,1
+Tri Shell,double,aleatoire,100,0,000025460,1
+Tri rapide,double,aleatoire,100,0,000017960,1
+Tri par selection,double,aleatoire,500,0,001274155,1
+Tri par insertion,double,aleatoire,500,0,000275615,1
+Tri a bulles,double,aleatoire,500,0,000929710,1
+Tri fusion,double,aleatoire,500,0,000046875,1
+Tri Shell,double,aleatoire,500,0,000053460,1
+Tri rapide,double,aleatoire,500,0,000044560,1
+Tri par selection,double,aleatoire,1000,0,002443425,1
+Tri par insertion,double,aleatoire,1000,0,000812455,1
+Tri a bulles,double,aleatoire,1000,0,003446205,1
+Tri fusion,double,aleatoire,1000,0,000099280,1
+Tri Shell,double,aleatoire,1000,0,000123930,1
+Tri rapide,double,aleatoire,1000,0,000087490,1
+Tri par selection,double,aleatoire,5000,0,059309940,1
+Tri par insertion,double,aleatoire,5000,0,020579140,1
+Tri a bulles,double,aleatoire,5000,0,095357880,1
+Tri fusion,double,aleatoire,5000,0,000629500,1
+Tri Shell,double,aleatoire,5000,0,000870800,1
+Tri rapide,double,aleatoire,5000,0,000551500,1
+Tri par selection,double,aleatoire,10000,0,246867940,1
+Tri par insertion,double,aleatoire,10000,0,079124420,1
+Tri a bulles,double,aleatoire,10000,0,376836560,1
+Tri fusion,double,aleatoire,10000,0,001228200,1
+Tri Shell,double,aleatoire,10000,0,001851180,1
+Tri rapide,double,aleatoire,10000,0,001096800,1
+Tri par selection,double,aleatoire,50000,5,921723267,1
+Tri par insertion,double,aleatoire,50000,2,029505967,1
+Tri a bulles,double,aleatoire,50000,10,038346800,1
+Tri fusion,double,aleatoire,50000,0,007849533,1
+Tri Shell,double,aleatoire,50000,0,012988767,1
+Tri rapide,double,aleatoire,50000,0,006460867,1
+Tri fusion,double,aleatoire,100000,0,016561000,1
+Tri Shell,double,aleatoire,100000,0,027819733,1
+Tri rapide,double,aleatoire,100000,0,013956733,1
+Tri par selection,double,croissant,100,0,000024550,1
+Tri par insertion,double,croissant,100,0,000000655,1
+Tri a bulles,double,croissant,100,0,000000245,1
+Tri fusion,double,croissant,100,0,000002920,1
+Tri Shell,double,croissant,100,0,000004285,1
+Tri rapide,double,croissant,100,0,000001980,1
+Tri par selection,double,croissant,500,0,000611935,1
+Tri par insertion,double,croissant,500,0,000003870,1
+Tri a bulles,double,croissant,500,0,000001730,1
+Tri fusion,double,croissant,500,0,000025665,1
+Tri Shell,double,croissant,500,0,000021510,1
+Tri rapide,double,croissant,500,0,000019655,1
+Tri par selection,double,croissant,1000,0,002444580,1
+Tri par insertion,double,croissant,1000,0,000008000,1
+Tri a bulles,double,croissant,1000,0,000003310,1
+Tri fusion,double,croissant,1000,0,000061260,1
+Tri Shell,double,croissant,1000,0,000050370,1
+Tri rapide,double,croissant,1000,0,000027715,1
+Tri par selection,double,croissant,5000,0,060561420,1
+Tri par insertion,double,croissant,5000,0,000031800,1
+Tri a bulles,double,croissant,5000,0,000009880,1
+Tri fusion,double,croissant,5000,0,000246800,1
+Tri Shell,double,croissant,5000,0,000218800,1
+Tri rapide,double,croissant,5000,0,000142260,1
+Tri par selection,double,croissant,10000,0,242495140,1
+Tri par insertion,double,croissant,10000,0,000078440,1
+Tri a bulles,double,croissant,10000,0,000026360,1
+Tri fusion,double,croissant,10000,0,000490280,1
+Tri Shell,double,croissant,10000,0,000625060,1
+Tri rapide,double,croissant,10000,0,000353380,1
+Tri par selection,double,croissant,50000,6,039186700,1
+Tri par insertion,double,croissant,50000,0,000374767,1
+Tri a bulles,double,croissant,50000,0,000130567,1
+Tri fusion,double,croissant,50000,0,002603800,1
+Tri Shell,double,croissant,50000,0,003024400,1
+Tri rapide,double,croissant,50000,0,001694367,1
+Tri fusion,double,croissant,100000,0,005296733,1
+Tri Shell,double,croissant,100000,0,006443033,1
+Tri rapide,double,croissant,100000,0,003701200,1
+Tri par selection,double,decroissant,100,0,000025210,1
+Tri par insertion,double,decroissant,100,0,000030890,1
+Tri a bulles,double,decroissant,100,0,000050430,1
+Tri fusion,double,decroissant,100,0,000003040,1
+Tri Shell,double,decroissant,100,0,000003440,1
+Tri rapide,double,decroissant,100,0,000002160,1
+Tri par selection,double,decroissant,500,0,000623090,1
+Tri par insertion,double,decroissant,500,0,000509890,1
+Tri a bulles,double,decroissant,500,0,001290210,1
+Tri fusion,double,decroissant,500,0,000028235,1
+Tri Shell,double,decroissant,500,0,000027090,1
+Tri rapide,double,decroissant,500,0,000011175,1
+Tri par selection,double,decroissant,1000,0,002455695,1
+Tri par insertion,double,decroissant,1000,0,001883575,1
+Tri a bulles,double,decroissant,1000,0,005171175,1
+Tri fusion,double,decroissant,1000,0,000037620,1
+Tri Shell,double,decroissant,1000,0,000068720,1
+Tri rapide,double,decroissant,1000,0,000040620,1
+Tri par selection,double,decroissant,5000,0,061368940,1
+Tri par insertion,double,decroissant,5000,0,041057260,1
+Tri a bulles,double,decroissant,5000,0,127292840,1
+Tri fusion,double,decroissant,5000,0,000230120,1
+Tri Shell,double,decroissant,5000,0,000327680,1
+Tri rapide,double,decroissant,5000,0,000152060,1
+Tri par selection,double,decroissant,10000,0,247643940,1
+Tri par insertion,double,decroissant,10000,0,175431720,1
+Tri a bulles,double,decroissant,10000,0,505827840,1
+Tri fusion,double,decroissant,10000,0,000541740,1
+Tri Shell,double,decroissant,10000,0,000886140,1
+Tri rapide,double,decroissant,10000,0,000371080,1
+Tri par selection,double,decroissant,50000,6,119755467,1
+Tri par insertion,double,decroissant,50000,4,218438100,1
+Tri a bulles,double,decroissant,50000,12,755221000,1
+Tri fusion,double,decroissant,50000,0,002643533,1
+Tri Shell,double,decroissant,50000,0,004211900,1
+Tri rapide,double,decroissant,50000,0,001886733,1
+Tri fusion,double,decroissant,100000,0,005872167,1
+Tri Shell,double,decroissant,100000,0,009452233,1
+Tri rapide,double,decroissant,100000,0,003709867,1
+Tri par selection,float,aleatoire,100,0,000104755,1
+Tri par insertion,float,aleatoire,100,0,000039895,1
+Tri a bulles,float,aleatoire,100,0,000120245,1
+Tri fusion,float,aleatoire,100,0,000018485,1
+Tri Shell,float,aleatoire,100,0,000026525,1
+Tri rapide,float,aleatoire,100,0,000016095,1
+Tri par selection,float,aleatoire,500,0,001220615,1
+Tri par insertion,float,aleatoire,500,0,000255635,1
+Tri a bulles,float,aleatoire,500,0,000707740,1
+Tri fusion,float,aleatoire,500,0,000041715,1
+Tri Shell,float,aleatoire,500,0,000050840,1
+Tri rapide,float,aleatoire,500,0,000031740,1
+Tri par selection,float,aleatoire,1000,0,002433195,1
+Tri par insertion,float,aleatoire,1000,0,000799810,1
+Tri a bulles,float,aleatoire,1000,0,002630325,1
+Tri fusion,float,aleatoire,1000,0,000107495,1
+Tri Shell,float,aleatoire,1000,0,000124365,1
+Tri rapide,float,aleatoire,1000,0,000076030,1
+Tri par selection,float,aleatoire,5000,0,059512660,1
+Tri par insertion,float,aleatoire,5000,0,021128460,1
+Tri a bulles,float,aleatoire,5000,0,079083700,1
+Tri fusion,float,aleatoire,5000,0,000638720,1
+Tri Shell,float,aleatoire,5000,0,000816880,1
+Tri rapide,float,aleatoire,5000,0,000474060,1
+Tri par selection,float,aleatoire,10000,0,244126180,1
+Tri par insertion,float,aleatoire,10000,0,080579520,1
+Tri a bulles,float,aleatoire,10000,0,374674100,1
+Tri fusion,float,aleatoire,10000,0,001315060,1
+Tri Shell,float,aleatoire,10000,0,002064220,1
+Tri rapide,float,aleatoire,10000,0,001019560,1
+Tri par selection,float,aleatoire,50000,5,871975033,1
+Tri par insertion,float,aleatoire,50000,1,886675200,1
+Tri a bulles,float,aleatoire,50000,8,333047333,1
+Tri fusion,float,aleatoire,50000,0,007529600,1
+Tri Shell,float,aleatoire,50000,0,012433900,1
+Tri rapide,float,aleatoire,50000,0,005693367,1
+Tri fusion,float,aleatoire,100000,0,015578833,1
+Tri Shell,float,aleatoire,100000,0,025793400,1
+Tri rapide,float,aleatoire,100000,0,012813733,1
+Tri par selection,float,croissant,100,0,000024015,1
+Tri par insertion,float,croissant,100,0,000000705,1
+Tri a bulles,float,croissant,100,0,000000225,1
+Tri fusion,float,croissant,100,0,000002605,1
+Tri Shell,float,croissant,100,0,000002165,1
+Tri rapide,float,croissant,100,0,000001970,1
+Tri par selection,float,croissant,500,0,000634975,1
+Tri par insertion,float,croissant,500,0,000004875,1
+Tri a bulles,float,croissant,500,0,000002030,1
+Tri fusion,float,croissant,500,0,000015270,1
+Tri Shell,float,croissant,500,0,000016710,1
+Tri rapide,float,croissant,500,0,000010045,1
+Tri par selection,float,croissant,1000,0,002406320,1
+Tri par insertion,float,croissant,1000,0,000006440,1
+Tri a bulles,float,croissant,1000,0,000002075,1
+Tri fusion,float,croissant,1000,0,000034340,1
+Tri Shell,float,croissant,1000,0,000034650,1
+Tri rapide,float,croissant,1000,0,000021210,1
+Tri par selection,float,croissant,5000,0,058669500,1
+Tri par insertion,float,croissant,5000,0,000031780,1
+Tri a bulles,float,croissant,5000,0,000009840,1
+Tri fusion,float,croissant,5000,0,000208340,1
+Tri Shell,float,croissant,5000,0,000209840,1
+Tri rapide,float,croissant,5000,0,000136020,1
+Tri par selection,float,croissant,10000,0,232223020,1
+Tri par insertion,float,croissant,10000,0,000063780,1
+Tri a bulles,float,croissant,10000,0,000026880,1
+Tri fusion,float,croissant,10000,0,000407740,1
+Tri Shell,float,croissant,10000,0,000485360,1
+Tri rapide,float,croissant,10000,0,000265420,1
+Tri par selection,float,croissant,50000,6,184186333,1
+Tri par insertion,float,croissant,50000,0,000416733,1
+Tri a bulles,float,croissant,50000,0,000197000,1
+Tri fusion,float,croissant,50000,0,002843033,1
+Tri Shell,float,croissant,50000,0,003190500,1
+Tri rapide,float,croissant,50000,0,001983233,1
+Tri fusion,float,croissant,100000,0,004953600,1
+Tri Shell,float,croissant,100000,0,006150333,1
+Tri rapide,float,croissant,100000,0,003578000,1
+Tri par selection,float,decroissant,100,0,000023215,1
+Tri par insertion,float,decroissant,100,0,000022010,1
+Tri a bulles,float,decroissant,100,0,000042605,1
+Tri fusion,float,decroissant,100,0,000002740,1
+Tri Shell,float,decroissant,100,0,000004305,1
+Tri rapide,float,decroissant,100,0,000003055,1
+Tri par selection,float,decroissant,500,0,000656440,1
+Tri par insertion,float,decroissant,500,0,000537450,1
+Tri a bulles,float,decroissant,500,0,001072855,1
+Tri fusion,float,decroissant,500,0,000025720,1
+Tri Shell,float,decroissant,500,0,000033190,1
+Tri rapide,float,decroissant,500,0,000015645,1
+Tri par selection,float,decroissant,1000,0,002507735,1
+Tri par insertion,float,decroissant,1000,0,001925955,1
+Tri a bulles,float,decroissant,1000,0,004316400,1
+Tri fusion,float,decroissant,1000,0,000039305,1
+Tri Shell,float,decroissant,1000,0,000068190,1
+Tri rapide,float,decroissant,1000,0,000036330,1
+Tri par selection,float,decroissant,5000,0,062009820,1
+Tri par insertion,float,decroissant,5000,0,043641440,1
+Tri a bulles,float,decroissant,5000,0,100218820,1
+Tri fusion,float,decroissant,5000,0,000328800,1
+Tri Shell,float,decroissant,5000,0,000381060,1
+Tri rapide,float,decroissant,5000,0,000176360,1
+Tri par selection,float,decroissant,10000,0,247169440,1
+Tri par insertion,float,decroissant,10000,0,169944320,1
+Tri a bulles,float,decroissant,10000,0,403213860,1
+Tri fusion,float,decroissant,10000,0,000435440,1
+Tri Shell,float,decroissant,10000,0,000752060,1
+Tri rapide,float,decroissant,10000,0,000275140,1
+Tri par selection,float,decroissant,50000,5,805116233,1
+Tri par insertion,float,decroissant,50000,3,909925967,1
+Tri a bulles,float,decroissant,50000,10,070356233,1
+Tri fusion,float,decroissant,50000,0,003238900,1
+Tri Shell,float,decroissant,50000,0,004872800,1
+Tri rapide,float,decroissant,50000,0,001820400,1
+Tri fusion,float,decroissant,100000,0,005536000,1
+Tri Shell,float,decroissant,100000,0,009853733,1
+Tri rapide,float,decroissant,100000,0,003908100,1
