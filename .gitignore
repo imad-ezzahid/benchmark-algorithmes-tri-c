@@ -1,0 +1,18 @@
+# Binaires et exécutables
+*.exe
+*.o
+*.out
+tri_gui
+tri_console
+
+# Dossiers de compilation
+bin/
+obj/
+
+# IDE et OS
+.vscode/
+*.cbp
+*.depend
+*.layout
+.DS_Store
+Thumbs.db
